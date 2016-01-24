@@ -1,0 +1,16 @@
+{
+	"name": "aero-font-awesome",
+	"version": "0.1.0",
+	"description": "Font Awesome bundle for Aero.",
+	"repository": "aerojs/aero-font-awesome",
+	"keywords": [
+		"aero",
+		"icons",
+		"font awesome"
+	],
+	"author": {
+		"name": "Eduard Urbach",
+		"email": "e.urbach@gmail.com",
+		"url": "https://blitzprog.org"
+	}
+}
